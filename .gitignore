@@ -1,0 +1,19 @@
+**/MusicPlayer/music
+
+# QtCreator specific
+*.creator.user
+*.fileList
+*.user
+*.pro.user
+*.pro.user.*
+.qmake.stash
+.qtc_clangd/
+Makefile
+.qtc_clangd/
+*.Debug
+*.Release
+
+# Build directory
+build/
+debug/
+release/
