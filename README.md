@@ -21,7 +21,7 @@ O projeto acabou ficando uma especie de `hard coding` o correto seria refatora a
 | ------- | ------ | ----------------------------------------------- |
 | OpenSSL | 1.1.1  | https://slproweb.com/products/Win32OpenSSL.html |
 
-Instalar o OpenSSL 1.1.1, possivelmente o diretorio vai ficar C:\OpenSSL-Win64, logo apos isso adicionar o diretorio "C:\OpenSSL-Win64\bin" ao Build Environment do QT, adicionar na variavel Path, ou adicionar ao .pro como `LIBS`
+Instalar o OpenSSL 1.1.1, possivelmente o diretorio vai ficar `C:\OpenSSL-Win64`, logo apos isso adicionar o diretorio `C:\OpenSSL-Win64\bin` ao Build Environment do QT, adicionar na variavel Path, ou adicionar ao .pro como `LIBS`
 
 - [Forum de ajuda caso necessario](https://forum.qt.io/topic/95700/qsslsocket-tls-initialization-failed/34)
 
